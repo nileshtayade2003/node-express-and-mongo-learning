@@ -12,7 +12,7 @@ date:{
 content:String,
 likes:[
   {type:mongoose.Schema.Types.ObjectId,ref:'user'}
-]
+],
 
 })
 
